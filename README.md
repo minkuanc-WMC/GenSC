@@ -68,7 +68,7 @@ Please cite this paper if you want to use it in your work
 
 # License
 
-[MIT License](https://github.com/minkuanc-WMC/GenSC/blob/main/License)
+[MIT License]([https://github.com/minkuanc-WMC/GenSC/blob/main/License](https://github.com/minkuanc-WMC/gensc/blob/main/LICENSE))
 
 # Acknowledgement
 
