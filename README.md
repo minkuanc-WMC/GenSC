@@ -11,7 +11,7 @@ We call such a semantic communication the generative semantic communication (Gen
 The key difference between this work and previous works is the proposed generative semantic communication system can recover the sentence from the corrupted one due to channel impairment. 
 To achieve this, the BART-like model is adopted for semantic encoding and decoding. The semantic decoder first obtains the relationship between the consecutive tokens in a sentence and utilizes bidirectional encoding to encode the sentence semantically. 
 With the help of token-level correlation, the corrupted tokens can be recovered or replaced with the most probable token.
-![image](https://github.com/user-attachments/assets/ba977e1a-140a-4529-9da3-18c65e7eed89)
+![image](https://github.com/user-attachments/assets/0c07943b-4e47-4781-bbb8-7751ff1dfe13)
 
 For further information please contact [Chun-Tse Hsu](https://github.com/CTHMIT)
 
